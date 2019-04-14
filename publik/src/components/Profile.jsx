@@ -17,9 +17,9 @@ export default class Profile extends Component {
           return avatarFallbackImage;
         }
       },
-      email: "",
-      age: "",
-      gender: "",
+      email: "rhuwellsamano@gmail.com",
+      age: "26",
+      gender: "male",
       editButtonClicked: false
     };
   }
